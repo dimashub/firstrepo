@@ -2,7 +2,7 @@
 
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("");
-echo "test git33";
+echo "test git22";
 
  // $handle = curl_init();
 // curl_setopt($handle, CURLOPT_URL, "http://kresla-market.ru");
